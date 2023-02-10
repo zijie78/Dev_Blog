@@ -3,7 +3,7 @@ For updating weekly learning and assignments
 
                                                  Week 1
 ========================================================================================================
-========================================================================================================
+===========================================================================================
 In week 1, we were introduced on what is Interactive Development also known as ID. We are also taught to
 create our first GitHub page and we are learned on what makes a good webiste.
 
